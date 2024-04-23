@@ -21,9 +21,6 @@ tjwaller0328@gmail.com
 -->
 
 ### 📚 Summary
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tjwaller&theme=github_dark
 
 
-
-
-
+![profile-details](https://github.com/tjwaller/tjwaller/assets/120071141/fe41aae2-841c-4d8f-8f14-194ec8aa1fbb)<svg xmlns="http://www.w3.org/2000/svg" width="700" height="200" viewBox="0 0 700 200">
