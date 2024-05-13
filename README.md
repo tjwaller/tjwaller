@@ -6,12 +6,8 @@
 I'm a Computer Science Student passionate about Software and Web Developement.
 
 ### 💻 I'm Currently Working On
-A Full Stack Marketplace
+A game in Python
 
-### 🌱 I'm Currently Learning
-React
-Node
-Mongo DB
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCg-dv6FGCvKCbwPbahxqMzQ) </br>
