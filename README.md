@@ -6,7 +6,7 @@
 I'm a Computer Science Student passionate about Software and Web Developement.
 
 ### 💻 I'm Currently Working On
-A game in Python
+A game in Python | CompTIA A+ Certification
 
 
 ## 🌐 Socials:
